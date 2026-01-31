@@ -2,14 +2,27 @@
   "name": "it3040_assignment",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "1. Install Node.js (version 16 or above)\r 2. Open terminal/command prompt in this folder\r 3. Run: `npm install`\r 4. Install browsers: `npx playwright install`",
   "dependencies": {
     "playwright": "^1.58.0"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faslurrahman128/IT3040-ITPM-Assignment1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Faslurrahman128/IT3040-ITPM-Assignment1/issues"
+  },
+  "homepage": "https://github.com/Faslurrahman128/IT3040-ITPM-Assignment1#readme"
 }

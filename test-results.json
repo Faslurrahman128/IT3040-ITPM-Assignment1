@@ -1,0 +1,171 @@
+{
+  "config": {
+    "configFile": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\playwright.config.js",
+    "rootDir": "C:/Users/Faslur Rahman/OneDrive/Desktop/IT23169326/tests",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "C:/Users/Faslur Rahman/OneDrive/Desktop/IT23169326/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "C:/Users/Faslur Rahman/OneDrive/Desktop/IT23169326/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 60000
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "html",
+        {
+          "outputFolder": "playwright-report",
+          "open": "never"
+        }
+      ],
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "test-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "runAgents": "none",
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.58.1",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "assignment-tests.spec.js",
+      "file": "assignment-tests.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Neg_Fun_0009 - English adverb semantic failure",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 60000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 13148,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mtrue\u001b[39m\nReceived: \u001b[31mfalse\u001b[39m",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mtrue\u001b[39m\nReceived: \u001b[31mfalse\u001b[39m\n    at C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\tests\\assignment-tests.spec.js:322:29",
+                    "location": {
+                      "file": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\tests\\assignment-tests.spec.js",
+                      "column": 29,
+                      "line": 322
+                    },
+                    "snippet": "\u001b[0m \u001b[90m 320 |\u001b[39m   console\u001b[33m.\u001b[39mlog(\u001b[32m'Has transliterated English:'\u001b[39m\u001b[33m,\u001b[39m hasTransliterated)\u001b[33m;\u001b[39m\n \u001b[90m 321 |\u001b[39m   \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 322 |\u001b[39m   expect(hasTransliterated)\u001b[33m.\u001b[39mtoBe(\u001b[36mtrue\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 323 |\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 324 |\u001b[39m\n \u001b[90m 325 |\u001b[39m test(\u001b[32m'Neg_Fun_0010 - English verb phrase semantic failure'\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\u001b[0m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\tests\\assignment-tests.spec.js",
+                        "column": 29,
+                        "line": 322
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32mtrue\u001b[39m\nReceived: \u001b[31mfalse\u001b[39m\n\n\u001b[0m \u001b[90m 320 |\u001b[39m   console\u001b[33m.\u001b[39mlog(\u001b[32m'Has transliterated English:'\u001b[39m\u001b[33m,\u001b[39m hasTransliterated)\u001b[33m;\u001b[39m\n \u001b[90m 321 |\u001b[39m   \n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 322 |\u001b[39m   expect(hasTransliterated)\u001b[33m.\u001b[39mtoBe(\u001b[36mtrue\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 323 |\u001b[39m })\u001b[33m;\u001b[39m\n \u001b[90m 324 |\u001b[39m\n \u001b[90m 325 |\u001b[39m test(\u001b[32m'Neg_Fun_0010 - English verb phrase semantic failure'\u001b[39m\u001b[33m,\u001b[39m \u001b[36masync\u001b[39m ({ page }) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[2m    at C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\tests\\assignment-tests.spec.js:322:29\u001b[22m"
+                    }
+                  ],
+                  "stdout": [
+                    {
+                      "text": "Test 33 (Neg) - Input: naan totally confuse aagitten\n"
+                    },
+                    {
+                      "text": "Output: நான் டொக்டல்லி கோணபிஸே ஆகிட்டேன் \n"
+                    },
+                    {
+                      "text": "Has transliterated English: \u001b[33mfalse\u001b[39m\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-01-31T13:44:26.121Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\test-results\\assignment-tests-Neg-Fun-0-0d187-ish-adverb-semantic-failure-chromium\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\test-results\\assignment-tests-Neg-Fun-0-0d187-ish-adverb-semantic-failure-chromium\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\test-results\\assignment-tests-Neg-Fun-0-0d187-ish-adverb-semantic-failure-chromium\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "C:\\Users\\Faslur Rahman\\OneDrive\\Desktop\\IT23169326\\tests\\assignment-tests.spec.js",
+                    "column": 29,
+                    "line": 322
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "974cbf1da15a98d6d7a3-a222f9320eaf3dbf8f20",
+          "file": "assignment-tests.spec.js",
+          "line": 313,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-01-31T13:44:22.801Z",
+    "duration": 26474.338000000047,
+    "expected": 0,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}

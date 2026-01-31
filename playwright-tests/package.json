@@ -1,0 +1,18 @@
+{
+  "name": "it3040-assignment1",
+  "version": "1.0.0",
+  "description": "Playwright tests for Thanglish to Tamil translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright test --reporter=html",
+    "install-browsers": "npx playwright install"
+  },
+  "keywords": ["playwright", "testing", "thanglish", "tamil"],
+  "author": "IT23169326",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  }
+}

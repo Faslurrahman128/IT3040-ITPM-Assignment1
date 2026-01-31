@@ -1,0 +1,490 @@
+<testsuites id="" name="" tests="119" failures="0" skipped="119" errors="0" time="2.143249">
+<testsuite name="tests\all-tests.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="36" failures="0" skipped="36" time="0" errors="0">
+<testcase name="Pos_Fun_0001 - naan veetuku poarean..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0002 - nee eppo varuva?..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0003 - Konjam help pannuviy..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0004 - machan innaiku semma..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0005 - naan ippo padikirean..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0006 - naan neatru office k..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0007 - naan nalaiku vaanguv..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0008 - naan adha panna matt..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0009 - enkku romba pasikuth..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0010 - naan veetuku poanean..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0011 - nee vanthaal naan so..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0012 - indaiku zoom meeting..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0013 - whatsapp le message ..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0014 - meeting 7.30 ku star..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0015 - exam 28 / 01 / 2026 ..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0016 - intha book oada pric..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0017 - enga teachers ellaru..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0018 - avanga nalaiku trip ..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0019 - seekiram seekiram va..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0020 - naan kandy ku travel..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0021 - vanakam eppadi iruke..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0022 - innaiku enakku offic..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0023 - please door a close ..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0024 - naan ippoathu veetul..." classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0001 - English word semantic failure" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0002 - Incorrect Thanglish spelling" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0003 - English abbreviation" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0004 - Numbers replacing letters" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0005 - English shorthand" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0006 - Idiomatic expression" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0007 - Untranslated English verb" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0008 - English adjective" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0009 - English adverb" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0010 - English verb phrase" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_UI_0001 - System lacks real-time translation feature" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Test Summary - Count all tests" classname="tests\all-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="tests\realistic-tests.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="10" failures="0" skipped="10" time="0" errors="0">
+<testcase name="Pos_Fun_0001 - Actual website behavior" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_0002 - Test working conversion" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_0001 - English word not converted" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_UI_0001 - Requires space to convert" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_001 - vanakkam" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_002 - nandri" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_Fun_003 - sugam" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_001 - hello how are you" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_002 - good morning" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_Fun_003 - computer science" classname="tests\realistic-tests.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="tests\simple-test.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="1" failures="0" skipped="1" time="0" errors="0">
+<testcase name="Check website" classname="tests\simple-test.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="tests\tamil-converter.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="35" failures="0" skipped="35" time="0" errors="0">
+<testcase name="Pos_01 – vanakam" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_02 – nandri" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_03 – sugam" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_04 – nalama" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_05 – poitu varen" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_06 – en peyar" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_07 – ungal peyar enna" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_08 – epadi irukinga" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_09 – romba nalla iruku" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_10 – intha padam nalla iruku" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_11 – ungalukku pidichathaa" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_12 – sari" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_13 – paravailla" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_14 – kadhal" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_15 – veetuku" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_16 – officeku" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_17 – pogiren" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_18 – varuven" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_19 – padikiren" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_20 – sapten" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_21 – thanginen" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_22 – parkiren" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_23 – nanri" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_24 – ungalukku romba nandri" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_1 – hello world" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_2 – computer science" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_3 – good morning" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_4 – thank you" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_5 – what is this" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_6 – how are you" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_7 – i love you" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_8 – software engineering" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_9 – playwright testing" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_10 – test case" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_UI – No real-time conversion" classname="tests\tamil-converter.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="tests\tamil.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="35" failures="0" skipped="35" time="0" errors="0">
+<testcase name="Pos_01 – vanakam" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_02 – nandri" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_03 – sugam" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_04 – nalama" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_05 – poitu varen" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_06 – en peyar" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_07 – ungal peyar enna" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_08 – epadi irukinga" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_09 – romba nalla iruku" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_10 – intha padam nalla iruku" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_11 – ungalukku pidichathaa" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_12 – sari" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_13 – paravailla" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_14 – kadhal" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_15 – veetuku" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_16 – officeku" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_17 – pogiren" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_18 – varuven" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_19 – padikiren" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_20 – sapten" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_21 – thanginen" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_22 – parkiren" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_23 – nanri" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Pos_24 – ungalukku romba nandri" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_1 – hello world" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_2 – computer science" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_3 – good morning" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_4 – thank you" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_5 – what is this" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_6 – how are you" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_7 – i love you" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_8 – software engineering" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_9 – playwright testing" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_10 – test case" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Neg_UI – No real-time conversion" classname="tests\tamil.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="tests\translator.spec.js" timestamp="2026-01-31T12:54:02.397Z" hostname="" tests="2" failures="0" skipped="2" time="0" errors="0">
+<testcase name="Pos_Fun_0001 - Convert simple daily sentence" classname="tests\translator.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Check website loads correctly" classname="tests\translator.spec.js" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>
